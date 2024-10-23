@@ -1,0 +1,9 @@
+pandas 
+praw
+python-dotenv 
+boto3
+transformers
+numpy
+ipykernel
+Tensorflow
+tf-keras
